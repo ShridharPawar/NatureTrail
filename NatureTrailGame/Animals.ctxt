@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Animals
+comment1.params=
+comment1.target=Animals()
+comment2.params=
+comment2.target=Animals\ animalPositions()
+comment2.text=\ \r\n\ This\ method\ tells\ that\ which\ animals\ has\ been\ sighted\ by\ the\ player\ based\ on\ random\ number\ generator.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAnimalName()
+comment3.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ name\ of\ the\ animal.\r\n
+comment4.params=
+comment4.target=int\ getAnimalPoints()
+comment4.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ points\ of\ the\ animal.\r\n
+comment5.params=name
+comment5.target=void\ setAnimalName(java.lang.String)
+comment5.text=\ \r\n\ This\ is\ a\ mutator\ method\ to\ set\ name\ to\ an\ animal.\r\n\ @param\ name\:\ Name\ of\ the\ animal\ to\ be\ set.\r\n
+comment6.params=animalPoints
+comment6.target=void\ setAnimalPoints(int)
+comment6.text=\ \r\n\ This\ is\ a\ mutator\ method\ to\ set\ points\ to\ an\ animal.\r\n\ @param\ name\:\ Points\ of\ the\ animal\ to\ be\ set.\r\n
+numComments=7

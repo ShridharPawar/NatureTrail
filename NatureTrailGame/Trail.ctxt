@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Trail
+comment1.params=
+comment1.target=Trail()
+comment2.params=index
+comment2.target=int\ getFeaturePosition(int)
+comment2.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ position\ of\ a\ particular\ feature.\r\n
+comment3.params=index
+comment3.target=java.lang.String\ getFeatureType(int)
+comment3.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ type\ of\ a\ particular\ feature.\r\n
+comment4.params=index
+comment4.target=int\ getFeatureSpacepenalty(int)
+comment4.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ space\ penalty\ of\ a\ particular\ feature.\r\n
+comment5.params=randomNumber\ index
+comment5.target=void\ setFeaturePosition(int,\ int)
+comment5.text=\ \r\n\ This\ is\ a\ mutator\ method\ to\ set\ random\ position\ to\ a\ particular\ feature.\r\n\ @param\ randomNumber\:\ The\ random\ position\ of\ the\ feature.\r\n\ @param\ index\:\ Index\ of\ the\ feature\ to\ which\ the\ position\ is\ to\ be\ assigned.\r\n
+numComments=6

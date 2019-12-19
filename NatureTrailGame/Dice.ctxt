@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Dice
+comment1.params=
+comment1.target=Dice()
+comment2.params=
+comment2.target=int\ getMinimumValue()
+comment2.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ minimum\ value\ of\ the\ dice.\r\n
+comment3.params=
+comment3.target=int\ getMaximumValue()
+comment3.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ maximum\ value\ of\ the\ dice.\r\n
+comment4.params=minValue\ maxValue
+comment4.target=int\ getTheDieValue(int,\ int)
+comment4.text=\ \r\n\ Method\ to\ generate\ the\ random\ value\ for\ the\ dice.\r\n\ @param\ minValue\:\ An\ integer\ specifying\ the\ lower\ limit\ of\ the\ dice(which\ is\ 1)\r\n\ @param\ maxValue\:\ An\ integer\ specifying\ the\ higher\ limit\ of\ the\ dice(which\ is\ 4)\r\n
+comment5.params=newMaximumValue
+comment5.target=void\ setMaximumValue(int)
+comment5.text=\ \r\n\ This\ is\ a\ mutator\ method\ to\ set\ the\ maximum\ value\ of\ the\ dice.\r\n\ @param\ newMaximumValue\:\ Maximum\ value\ of\ the\ dice\r\n
+comment6.params=newMinimumValue
+comment6.target=void\ setMinimumValue(int)
+comment6.text=\ \r\n\ This\ is\ a\ mutator\ method\ to\ set\ the\ minimum\ value\ of\ the\ dice.\r\n\ @param\ newMinimumValue\:\ Minimum\ value\ of\ the\ dice\r\n
+numComments=7

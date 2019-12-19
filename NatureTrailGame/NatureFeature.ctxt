@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NatureFeature
+comment1.params=featurePosition\ featureType\ spacePenalty
+comment1.target=NatureFeature(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getPosition()
+comment2.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ position\ of\ the\ feature.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment3.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ type\ of\ the\ feature.\r\n
+comment4.params=
+comment4.target=int\ getSpacePenalty()
+comment4.text=\ \r\n\ This\ is\ an\ accessor\ method\ to\ get\ the\ space\ penalty\ of\ the\ feature.\r\n
+comment5.params=randomNumber
+comment5.target=void\ setPosition(int)
+comment5.text=\ \r\n\ This\ is\ a\ mutator\ method\ to\ set\ position\ to\ a\ feature.\r\n\ @param\ randomNumber\:\ The\ random\ position\ of\ the\ feature.\r\n
+numComments=6
