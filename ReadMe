@@ -1,0 +1,6 @@
+•	Created a text-based game developed in Java using Bluej IDE.
+•	Workflow of the game:
+-	The user would go through a forest trail (by rolling the dice) randomly encountering various animals (like kangaroo, koala etc) and natural entities (like landslide, bridges, rivers etc) placed on the trail using random number generator.
+-	User would get certain points after spotting an animal (whose placement on trail is generated randomly). User would move forward or backwards on trail after reaching a natural landmark.
+-	User plays this game against the gaming algorithm and whoever reaches the final position with maximum points is the winner. This project required the ability to turn ideas into realities.
+
